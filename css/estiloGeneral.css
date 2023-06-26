@@ -3,4 +3,20 @@ body
     color: darkgoldenrod;
     text-decoration-style: dashed;
     font-family: fantasy;
+    font-size: large;
+    margin: 0;
+    padding: auto;
+}
+#container
+{
+    width: auto;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
