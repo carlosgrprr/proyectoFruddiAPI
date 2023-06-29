@@ -20,3 +20,11 @@ body
 {
     font-size: 20px;
 }
+
+#button
+{
+    font-style: oblique;
+    color: aquamarine;
+    font-size: large;
+    
+}
