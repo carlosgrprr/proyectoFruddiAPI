@@ -1,6 +1,3 @@
 # proyectoFruddiAPI
-FRUDDi API es una herramienta diseñada para ayudar a los empresarios y 
-emprendedores de la industria hotelera y de servicios de alimentos a gestionar sus recursos de manera eficiente y sostenible.  
-
-Desarrollo y despliegue de una aplicación descentralizada que permite a productores, intermediarios y consumidrores, resrealizar tareas administrativas para sistemas de contabilidad, permitiendo la colección de datos y el análisis de los mismos para aconsejar sobre acciones de futura producción.
+FRUDDi is a marketplace for the food industry. Built to connect the supply chain and let establish secure transactions between the stakeholders. Helps participants of the supply chain manage their goods with a set of digital tools (inventories, order list, waste management, menu engineering,  contacts, works schedules, trainings with digital signatures, circular processes) that allows them to have control over their resources  and achieve a better result from it avoiding losses and waste. 
 
